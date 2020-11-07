@@ -2,8 +2,7 @@
 # NullDDos v 1.0
 # Coded by: NullHACKR
 # Github: https://github.com/NullHACKR/NullDDos
-import os,sys,socket,random,time
-from termcolor import colored
+import os,sys,socket,random
 g = '\033[32m'
 r = '\033[31m'
 y = '\033[93m'
