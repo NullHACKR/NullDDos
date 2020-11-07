@@ -1,4 +1,4 @@
-#!/bin/python
+#!/bin/python3 
 # NullDDos v 1.0
 # Coded by: NullHACKR
 # Github: https://github.com/NullHACKR/NullDDos
