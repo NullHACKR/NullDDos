@@ -8,7 +8,6 @@ a denial-of-service attack is a cyber-attack in which the perpetrator seeks to m
 3.chmod +x NullDDos
 
 4.python3 NullDDos.py
-# Image
- ![alt text](https://serving.photos.photobox.com/679364554f715021c70afe2b01c219bc314607bffae2353ce72d92cb3a64cfe7d0c52367.jpg)
+
 
 
