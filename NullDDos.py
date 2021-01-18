@@ -57,11 +57,11 @@ if ip == "":
 else:
        sent = 0
        for lport in port:
-            print("[-] Sending packet through all possible port [:)]")
+            print("[-] Sending packet through port [:)]")
             print(lport)
-            time.sleep(1)
+            time.sleep(0.1)
        print(r+"[+] Attack Starting.....")
-       time.sleep(5)
+       time.sleep(1)
        while True:
                    for lport in port:
                         print(b)
