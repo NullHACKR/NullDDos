@@ -39,8 +39,9 @@ print(g+"""                              NullDDos v 2.0
 # logo
 #
 print(b+"""  CODED BY : NullHACKR""")
-print(y+"""  GITHUB : NullHACKR""")
-print(r)
+print(b+"""  GITHUB : NullHACKR""")
+print(r+"""  REMEMBER : PAIKHOMBA""") 
+print(y)
 #
 # input
 #
